@@ -1,0 +1,25 @@
+body {
+    background-color: #ddd4d4;
+    font-family: Arial, sans-serif;
+  }
+  
+  h1 {
+    color: blue;
+  }
+  
+  h2 {
+    color: green;
+  }
+  
+  .custom-div h3 {
+    color: rgb(42, 170, 132);
+  }
+  .custom-div-1 h3 {
+    color: rgb(42, 112, 170);
+  }  .custom-div-2 h3 {
+    color: rgb(144, 165, 69);
+  }
+  
+  a {
+    color: purple;
+  }
